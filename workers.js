@@ -5,7 +5,7 @@
 
 // ==================== 配置区 ====================
 // 管理员密码（建议通过环境变量设置：wrangler.toml 或 Cloudflare Dashboard）
-const ADMIN_PASSWORD = "请修改为强密码"; // 请修改为强密码！
+const ADMIN_PASSWORD = "1wnJThpTEGU0gmz1ANGG"; // 请修改为强密码！
 
 // KV 命名空间绑定（需要在 wrangler.toml 中配置）
 // [[kv_namespaces]]
